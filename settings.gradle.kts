@@ -1,0 +1,1 @@
+rootProject.name = "tutorato-po-26-27"
