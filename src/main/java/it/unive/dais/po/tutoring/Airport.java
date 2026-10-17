@@ -1,12 +1,16 @@
-package org.example;
+package it.unive.dais.po.tutoring;
+
+import it.unive.dais.po.tutoring.airport.vehicles.Airplane;
+
+import java.util.Set;
 
 public class Airport {
-    String name;
-    String ICAO;
-    int numRunways;
-    int numStalls;
-    final int id;
-    static int numAirports;
+    private String name;
+    public final String ICAO;
+    private int numRunways;
+    private int numStalls;
+    public final int id;
+    private static int numAirports;
 
     static {
         numAirports = 0;
@@ -30,7 +34,7 @@ public class Airport {
 
     /**
      * Copy constructor
-     * @param airport
+     * @param airport The airport to clone
      */
     public Airport(Airport airport) {
         this(airport.name, airport.ICAO, airport.numRunways, airport.numStalls);
@@ -48,6 +52,14 @@ public class Airport {
 
     static void addRunway(Airport airport){
         airport.numRunways++; // side effect
+    }
+
+    public int getNumRunways() {
+        return numRunways;
+    }
+
+    public static int getNumAirports() {
+        return numAirports;
     }
 
     static void main(String[] args) {
