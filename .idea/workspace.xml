@@ -5,24 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dc3d81b-3176-4c70-9e91-56fc84b90be3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/ATC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/operations/GroundOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/operations/Stall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/terminal/Gate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/vehicles/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/AirportArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/CargoAirport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/GateArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/InternationalAirport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport/ShoppingArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Airport.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/Airport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +60,26 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/campa/Github/tutorato-po-26-27/src/main/java/it/unive/dais/po/tutoring/airport",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/campa/Github/tutorato-po-26-27/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Airplane">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/it/unive/dais/po/tutoring/airport" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aeroporto">
     <configuration name="Aeroporto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Aeroporto" />
       <module name="tutorato-po-26-27.main" />
@@ -134,7 +144,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
       </set>
     </attachedChunks>
   </component>
@@ -147,5 +158,8 @@
       <updated>1791620537211</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
